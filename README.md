@@ -13,12 +13,19 @@
 
 ## 📸 Bot Profile & Media
 
+### 🎥 **Video Demo - Sei Agent Bot Introduction**
+
+[![Sei Agent Bot Demo](https://img.youtube.com/vi/oQRvXOcW6lg/maxresdefault.jpg)](https://youtu.be/oQRvXOcW6lg)
+
+*Click the image above to watch the complete Sei Agent Bot demonstration on YouTube*
+
 <!-- Bot Profile Image and Welcome Image will be added here -->
+<!-- <img width="25" height="25" alt="ChatGPT Image Aug 16, 2025, 07_50_08 AM" src="https://github.com/user-attachments/assets/0e1794a7-a590-4253-ab8d-1c90de1c5b1a" />
+
 <!-- 
 [Bot Profile Image]
 [Welcome Image] 
 -->
-
 ---
 
 ## 🎯 Overview
