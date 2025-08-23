@@ -6,7 +6,7 @@
 [![Network](https://img.shields.io/badge/Network-Sei%20Testnet%20%7C%20Mainnet-green?style=flat-square)](https://docs.sei.io/evm/networks)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue?style=flat-square&logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![Hackathon](https://img.shields.io/badge/Hackathon-AI%2FAccelathon%202024-purple?style=flat-square)](https://dorahacks.io/hackathon/aiaccelathon/)
+[![Hackathon](https://img.shields.io/badge/Hackathon-AI%2FAccelathon-purple?style=flat-square)](https://dorahacks.io/hackathon/aiaccelathon/)
 [![Track](https://img.shields.io/badge/Track-DeFi%20%26%20Payments-orange?style=flat-square)](https://dorahacks.io/hackathon/aiaccelathon/)
 
 ---
